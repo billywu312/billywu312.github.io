@@ -1,6 +1,6 @@
 import { Component, OnInit ,Input } from '@angular/core';
 import { NavController, NavParams } from 'ionic-angular';
-import { Library } from '../../models/library.model';
+import { Library } from '../../models';
 import { Platform } from 'ionic-angular';
 
 @Component({

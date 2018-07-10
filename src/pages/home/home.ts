@@ -1,7 +1,7 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { NavController } from 'ionic-angular';
 import { HomeService } from './services/home.service';
-import { Library } from '../../models/library.model';
+import { Library } from '../../models';
 import { Observable } from 'rxjs/Observable';
 import { DetailsPage } from '../details/details';
 
